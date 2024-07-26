@@ -1,0 +1,17 @@
+{
+  "name": "volunteer-website",
+  "version": "1.0.0",
+  "main": "login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "puppeteer": "^22.13.1",
+    "puppeteer-cluster": "^0.24.0"
+  }
+}
